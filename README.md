@@ -1,16 +1,20 @@
-## Hi there 👋
+# About Me
 
-<!--
-**CortezT/CortezT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a passionate **front-end developer** with experience in **React**, **JavaScript**, **CSS**, and **HTML**. I've completed the **UT Austin Full Stack Coding Bootcamp** and the **Tripleten Business Intelligence Analyst Bootcamp**. I'm eager to participate in outsourcing projects and collaborate on innovative web applications that deliver both functionality and great user experience.
 
-Here are some ideas to get you started:
+## Fun Facts
+- I love solving complex problems and seeing my code come to life.
+- Outside of coding, I enjoy learning about data analysis and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Primary Tech Skills
+- **React**
+- **JavaScript**
+- **CSS**
+- **HTML**
+- **Tableau** (Data Visualization)
+
+## Let's Connect!
+- **Portfolio:** [https://trystancortezportfolio.netlify.app/]
+- **LinkedIn:** [https://www.linkedin.com/in/trystan-cortez/]
+
+**Location:** Open to relocation!
