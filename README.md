@@ -16,5 +16,6 @@ Hi there! I'm a passionate **front-end developer** with experience in **React**,
 ## Let's Connect!
 - **Portfolio:** [https://trystancortezportfolio.netlify.app/]
 - **LinkedIn:** [https://www.linkedin.com/in/trystan-cortez/]
+- **Email:** [trystan.m.cortez@gmail.com]
 
 **Location:** Open to relocation!
