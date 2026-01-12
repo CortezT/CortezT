@@ -13,8 +13,8 @@ I’m actively looking to grow through **outsourcing projects, collaborative dev
 ---
 
 ## Fun Facts
-- I enjoy solving complex UI challenges and seeing polished interfaces come to life.
-- I’m always looking for ways to refine workflows and improve front-end performance.
+- I am currently working on my own game using the Unity engine.
+- I’ve never had a beignet.
 
 ---
 
